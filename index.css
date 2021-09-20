@@ -6,7 +6,7 @@ body{
 
 table{
     border: 3px solid black;
-    max-width: 800px;
+    width: 100%vh;
     margin: 0 auto;
     position: relative;
     top: 200px;
